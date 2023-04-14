@@ -1,4 +1,4 @@
-main: main.java
+main: com.example.main
 name: Protection-spawn
 version: 1
 author: Stepan_5
